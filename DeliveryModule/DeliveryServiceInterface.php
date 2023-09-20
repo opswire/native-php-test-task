@@ -2,6 +2,7 @@
 declare(strict_types=1);
 
 namespace DeliveryModule;
+
 interface DeliveryServiceInterface
 {
     const DATE_FORMAT = 'Y-m-d';
